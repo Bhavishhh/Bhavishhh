@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavishhh&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishhh" /> </p>
 
-- 📫 How to reach me **bhavishsshetty.bs@gmail.com**
+- 📫 How to reach me : **bhavishsshetty.bs@gmail.com**
 
 - 📄 Know about my experiences :<br> [https://drive.google.com/file/d/1lm4Vgd1-mVefN4bJxhjKGCkCVR8vhgza/view?usp=sharing]
 
